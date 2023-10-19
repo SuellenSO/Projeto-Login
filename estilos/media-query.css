@@ -14,7 +14,7 @@
         width: 70%;
     }
     body {
-        background-image: linear-gradient(to top, #647345, #F266A7);
+        background-image: linear-gradient(to top, #a3bf6f, #F266A7);
     }
 
 }
@@ -32,6 +32,9 @@
         width: 50%;
     }
     body {
-        background-image: linear-gradient(to top, #647345, #F266A7);
+        background-image: linear-gradient(to top, #a3bf6f, #F266A7);
+    }
+    div#formulario {
+        font-size: 1.2em;
     }
 }
