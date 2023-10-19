@@ -8,6 +8,7 @@
     }
     section#login {
         width: 80vw;
+        height: 300px;
     }
     section#login > div#formulario {
         float: right;
@@ -36,5 +37,19 @@
     }
     div#formulario {
         font-size: 1.2em;
+    }
+    #ilogin, #isenha {
+        background-color: #c5e688;
+        font-size: 1em;
+        width: calc(100% - 46px);
+        height: 90%;
+        border-radius: 5px;
+        padding: 5px;
+        transform: translateY(-12px);
+    }
+    .material-symbols-outlined {
+        font-size: 2em; /* Ou qualquer outro valor que se ajuste ao design */
+        width: 37px;
+        padding: 2px;
     }
 }
